@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Users\Felipe\source\repos\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+C:\Users\Felipe\source\repos\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+C:\Users\Felipe\source\repos\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+C:\Users\Felipe\source\repos\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
